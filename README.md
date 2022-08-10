@@ -1,7 +1,7 @@
 
 # Basic containerized Express Server
 
-`git clone https://github.com/Proyectos-Cibertec/Supermercado`
+`git clone https://github.com/lguisadom/basiccontainerized_express_server.git`
 
 ## Steps
 
